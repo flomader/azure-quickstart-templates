@@ -18,7 +18,7 @@
       "value": "GEN-UNIQUE-10"
     },
     "storageAccountType": {
-      "value": "Premium_LRS"
+      "value": "Standard_LRS"
     },
     "virtualNetworkName": {
       "value": "GEN-UNIQUE-10"
@@ -30,7 +30,7 @@
       "value": "Eval"
     },
     "vmSize": {
-      "value": "Standard_DS14"
+      "value": "Standard_D3"
     },
     "company": {
       "value": "company"
