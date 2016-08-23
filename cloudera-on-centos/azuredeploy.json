@@ -42,7 +42,7 @@
     },
     "storageAccountType": {
       "type": "string",
-      "defaultValue": "Premium_LRS",
+      "defaultValue": "Standard_LRS",
       "metadata": {
         "description": "The type of the Storage Account to be created (Default to Premium_LRS)"
       }
